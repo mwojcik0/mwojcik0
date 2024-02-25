@@ -6,7 +6,7 @@
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at (portfolio website coming soon)
 * ✉️  You can contact me at [marcelinowojcik@gmail.com](mailto:marcelinowojcik@gmail.com)
-* 🚀  I'm currently working on EatIn
+* 🚀  I'm currently working on EatIn and my portfolio website
 * 🧠  I'm learning Angular and Java
 * 🤝  I'm open to collaborating on innovative, interesting projects
 
