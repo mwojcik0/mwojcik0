@@ -22,7 +22,7 @@
 
 ### Socials
 
-RentRate - A Web Application supporting real estate services
+RentRate - A Web Application supporting real estate services (showcase video below)
 
 [![RentRate Showcase Video Thumbnail](https://img.youtube.com/vi/qG33wgkBm10/0.jpg)](https://www.youtube.com/watch?v=qG33wgkBm10)
 
