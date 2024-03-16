@@ -26,6 +26,8 @@ RentRate - A Web Application supporting real estate services (showcase video bel
 
 [![RentRate Showcase Video Thumbnail](https://img.youtube.com/vi/qG33wgkBm10/0.jpg)](https://www.youtube.com/watch?v=qG33wgkBm10)
 
+(more currently finished projects will be published soon)
+
 ### Badges
 
 <b>My GitHub Stats</b>
