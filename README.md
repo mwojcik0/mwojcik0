@@ -28,7 +28,7 @@ RentRate - A Web Application supporting real estate services (showcase video bel
 
 Reflex! - A Game written in C for STM32 microcontroller (showcase video below)
 
-[![Reflex! Showcase Video Thumbnail](https://img.youtube.com/vi/u2Nv1onk5ywsy2BJ/0.jpg)](https://www.youtube.com/watch?v=u2Nv1onk5ywsy2BJ)
+[![Reflex! Showcase Video Thumbnail](https://img.youtube.com/vi/NpWPxC8vZko/0.jpg)](https://www.youtube.com/watch?v=NpWPxC8vZko)
 
 (more currently finished projects will be published soon)
 
