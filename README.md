@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwojcik0&label=Profile%20views&color=0e75b6&style=flat" alt="mwojcik0" /> </p>
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio here -> [(Website)](https://mwojcikportfolio.web.app/)
+* 🖥️  See my portfolio here -> [✨ Portfolio ✨](https://mwojcikportfolio.web.app/)
 * ✉️  You can contact me at [marcelinowojcik@gmail.com](mailto:marcelinowojcik@gmail.com)
 * 🚀  I'm currently working on EatIn and my portfolio website
 * 🧠  I'm learning Angular and Java
